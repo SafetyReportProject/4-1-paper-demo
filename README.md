@@ -76,7 +76,8 @@ cd docs && python -m http.server 8000    # then open http://localhost:8000
 
 ## Data and licenses
 
-- Code: MIT (see `LICENSE`).
+- Code: MIT (see `LICENSE`). Copyright is held by the Korea Electronics
+  Technology Institute (KETI).
 - Administrative boundary polygons:
   [admdongkor](https://github.com/vuski/admdongkor) (CC BY 4.0), version
   pinned to `ver20260401`. The lightweight district/province outlines under
@@ -95,5 +96,5 @@ cd docs && python -m http.server 8000    # then open http://localhost:8000
 }
 ```
 
-This is a research artifact by the authors (KETI); it is not an
-official service of the reporting platform.
+This is a research artifact of the Korea Electronics Technology Institute
+(KETI); it is not an official service of the reporting platform.
