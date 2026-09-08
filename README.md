@@ -3,7 +3,7 @@
 Companion code and interactive demo for the paper. The deployed system routes
 civic safety reports to the responsible agency under a 1,292:1 class imbalance.
 
-**Interactive demo:** https://ilhoan99.github.io/civic-report-classifier/
+**Interactive demo:** https://safetyreportproject.github.io/4-1-top-lv-transfer-org-cls-demo/
 
 South Korea's nationwide civic reporting platform receives more than ten
 million citizen reports a year, routed to 12 agencies whose sizes differ by
@@ -91,7 +91,7 @@ cd docs && python -m http.server 8000    # then open http://localhost:8000
             Extreme Class Imbalance},
   author = {Kim, Ilhwan and Oh, Seungtaek and Moon, Jaewon},
   year   = {2026},
-  url    = {https://github.com/ilhoan99/civic-report-classifier}
+  url    = {https://github.com/SafetyReportProject/4-1-top-lv-transfer-org-cls-demo}
 }
 ```
 
